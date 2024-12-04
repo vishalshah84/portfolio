@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/bg_new.jpg);
+	background-image: url(./img/bg_new.jpg);  /*  reso needs to be lowered */
 	background-size: cover;
 	background-position: top center;
 	position: relative;
