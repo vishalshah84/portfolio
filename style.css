@@ -200,7 +200,7 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(img/pic1 expand.jpg);  /*  reso needs to be lowered */
+	background-image: url(img/'pic1 expand.jpg');  /*  reso needs to be lowered */
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -701,5 +701,6 @@ p {
 	}
 }
 /* End  Media Query For Desktop */
+
 
 
